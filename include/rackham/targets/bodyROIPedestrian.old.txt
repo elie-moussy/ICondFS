@@ -1,0 +1,37 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ROI compose d'une region %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%-------------------------
+% Nombre de ROI
+%-------------------------
+<nbROI>
+2
+</nbROI>
+
+%-------------------------
+% Parametres de la ROI 0 (torse)
+%-------------------------
+<offsetROI_0>
+-16	-32
+</offsetROI_0>
+
+<sizeROI_0>
+32	32
+</sizeROI_0>
+
+
+%-------------------------
+% Parametres de la ROI 0 (jambes)
+%-------------------------
+<offsetROI_0>
+-16	0
+</offsetROI_0>
+
+<sizeROI_0>
+32	32
+</sizeROI_0>
+
+
+
+% Ces parametres sont pour une fenetre de detection de 64x128 pixels
