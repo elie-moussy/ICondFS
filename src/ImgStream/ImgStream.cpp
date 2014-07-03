@@ -1,4 +1,4 @@
-#include "ImgStream.h"
+#include "ICondFS/ImgStream/ImgStream.h"
 
 Size ImgStream::getImgSize()
 {

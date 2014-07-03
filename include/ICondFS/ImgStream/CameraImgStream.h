@@ -1,7 +1,7 @@
 #ifndef CAMERAIMGSTREAM_H
 #define CAMERAIMGSTREAM_H
 
-#include "ComponentImgStream.h"
+#include "ICondFS/ImgStream/ComponentImgStream.h"
 
 class CameraImgStream : public ComponentImgStream
 {

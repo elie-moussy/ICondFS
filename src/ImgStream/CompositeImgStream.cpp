@@ -1,4 +1,4 @@
-#include "CompositeImgStream.h"
+#include "ICondFS/ImgStream/CompositeImgStream.h"
 
 CompositeImgStream::CompositeImgStream()
 {

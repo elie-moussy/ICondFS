@@ -1,4 +1,4 @@
-#include "PTZImgStream.h"
+#include "ICondFS/ImgStream/PTZImgStream.h"
 
 static void* threadPTZCapture(void* stream) {
     SStream *str = (SStream *) stream;

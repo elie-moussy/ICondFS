@@ -1,9 +1,9 @@
 #ifndef PTZIMGSTREAM_H
 #define PTZIMGSTREAM_H
 
-#include "CameraImgStream.h"
-#include "StreamRTSP.h"
-#include "Image.h"
+#include "ICondFS/ImgStream/CameraImgStream.h"
+#include "ICondFS/ImgStream/StreamRTSP.h"
+#include "ICondFS/ImgStream/Image.h"
 
 
 /**

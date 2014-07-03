@@ -1,7 +1,7 @@
 #ifndef IMGSTREAM_H
 #define IMGSTREAM_H
 
-#include "Image.h"
+#include "ICondFS/ImgStream/Image.h"
 #include <opencv2/core/core.hpp>
 using cv::Size;
 

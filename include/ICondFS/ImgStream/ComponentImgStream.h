@@ -1,7 +1,7 @@
 #ifndef COMPONENTIMGSTREAM_H
 #define COMPONENTIMGSTREAM_H
 
-#include "ImgStream.h"
+#include "ICondFS/ImgStream/ImgStream.h"
 
 class ComponentImgStream : public ImgStream
 {

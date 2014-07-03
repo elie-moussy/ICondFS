@@ -3,8 +3,8 @@
 
 #include <string>
 #include <opencv2/highgui/highgui.hpp>
-#include "ComponentImgStream.h"
-#include "Image.h"
+#include "ICondFS/ImgStream/ComponentImgStream.h"
+#include "ICondFS/ImgStream/Image.h"
 
 using std::string;
 

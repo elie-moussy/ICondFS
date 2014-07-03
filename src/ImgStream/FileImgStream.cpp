@@ -1,4 +1,4 @@
-#include "FileImgStream.h"
+#include "ICondFS/ImgStream/FileImgStream.h"
 
 FileImgStream::FileImgStream(string filename) : filename(filename), hasBeenGrabed(false) {
     this->cap.open(filename);
