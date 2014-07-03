@@ -1,9 +1,9 @@
 #ifndef DEMONSTRATOR_H
 #define DEMONSTRATOR_H
 
-#include "libPF/filters/ParticleFilter.h"
-#include "Particle.h"
-#include "ImgStream/ImgStream.h"
+#include <LibPF/filters/ParticleFilter.h>
+#include "ICondFS/Particle.h"
+#include "ICondFS/ImgStream/ImgStream.h"
 #include <opencv2/core/core.hpp>
 
 
