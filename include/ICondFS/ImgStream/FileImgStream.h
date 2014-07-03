@@ -14,10 +14,10 @@ public:
     FileImgStream(string filename);
 
     virtual ~FileImgStream();
-    virtual bool hasNext() override;
-    virtual bool startReading() override;
-    virtual bool stopReading() override;
-    virtual Image& getNextImage() override;
+    virtual bool hasNext() /*override*/;
+    virtual bool startReading() /*override*/;
+    virtual bool stopReading() /*override*/;
+    virtual Image& getNextImage() /*override*/;
 
 protected:
     cv::VideoCapture cap;
